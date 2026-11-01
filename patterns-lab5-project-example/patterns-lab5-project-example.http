@@ -1,0 +1,6 @@
+@patterns_lab5_project_example_HostAddress = http://localhost:5243
+
+GET {{patterns_lab5_project_example_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "patterns-lab5-project-example", "patterns-lab5-project-example\patterns-lab5-project-example.csproj", "{AAE8C517-2AA1-4262-BCDD-11459D2D1E1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAE8C517-2AA1-4262-BCDD-11459D2D1E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAE8C517-2AA1-4262-BCDD-11459D2D1E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAE8C517-2AA1-4262-BCDD-11459D2D1E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAE8C517-2AA1-4262-BCDD-11459D2D1E1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
